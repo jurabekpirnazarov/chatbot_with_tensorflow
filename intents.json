@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "enjoyOfTravel",
+      "patterns": ["Do you like travelling?","Are you fond of traveling?", "Do you enjoy traveling?","Do you have a strong desire to see and explore the world around you?","Do you get a sense of fulfillment from seeing new sights and experiencing new things?", "Are you a fan of experiencing different cuisines and lifestyles from around the world?", "Do you get excited about the idea of going on a trip to somewhere you've never been before?","Do you relish the opportunity to go on adventures and try new things?"],
+      "responses": ["I absolutely love traveling and exploring new places.", "Yes, I find traveling to be an enriching and exciting experience.", "Definitely, traveling allows me to learn about new cultures and meet new people.", "Absolutely, traveling is one of my favorite hobbies.",  "Yes, there is nothing quite like the feeling of discovering a new destination.", "Without a doubt, traveling broadens my horizons and gives me a new perspective on life.", "Yes, I believe that traveling is an essential part of personal growth and development.", "I can't get enough of traveling, there is always something new to discover and learn.", "Yes, traveling allows me to break out of my comfort zone and challenge myself.", "For me, there is nothing quite like the thrill of exploring new destinations and creating unforgettable memories."]
+    },
+    {
+      "tag": "withWhom",
+      "patterns": ["Who do you usually travel with?", "Do you usually go on vacation with family or friends?", "With whom do you like to share your travel experiences?", "Who is your favorite travel companion?", "Do you prefer to travel solo or with a group?", "Who do you think is the best person to travel with?", "Do you enjoy traveling with someone or by yourself?", "Who would you love to go on vacation with that you haven't yet?", "Do you like to travel with people who have similar interests as you?", "Do you think it's important to travel with someone you're close to?"],
+      "responses": ["I often travel with my family members, such as my parents or siblings.", "I usually go on trips with my close friends.", "Sometimes, I prefer to travel alone to explore new places and challenge myself.", "I travel with my spouse and kids to make it a family vacation.", "I often travel with my colleagues to attend work-related conferences and events.", "I prefer to travel with a tour group to meet new people and make friends.", "I travel with my significant other to create special memories together.", "I usually travel with my classmates or study group to explore new cultures and learn together.", "Sometimes, I travel with my pet to make it a fun and adventurous experience for both of us.", "I travel with my sports team to compete in tournaments and matches in different cities or countries."]
+    },
+    
+    {
+      "tag": "WhichPlace",
+      "patterns": ["Which places have you traveled to?","What destinations have you explored?",
+"What places have you visited so far?","What are some of the places you have been to?",
+"What countries have you visited in your travels?",
+"What tourist attractions have you seen?","What places have you had the chance to explore?",
+"What sights have you seen on your travels?","What landmarks have you visited?","What notable places have you been to?"],
+
+      "responses": ["I have visited many cities and towns in my country.",
+"I have visited several countries and experienced a variety of cultures.",
+"I have been to beaches, mountains, and even some islands.",
+"I have visited historic sites and museums to learn more about the past.",
+"I have explored big cities with lots of hustle and bustle.",
+"I have visited small villages where life is more simple and traditional.",
+"I have traveled to some remote areas and witnessed breathtaking natural scenery.",
+"I have visited some theme parks and had lots of fun with family and friends.",
+"I have visited some religious sites and learned about different beliefs and practices.",
+"I have visited some places known for their delicious food and beverages."]
+    },
+
+    {
+      "tag": "Hobbi",
+      "patterns": ["Do you like exploring local cuisine?",
+"Are you interested in visiting historical sites and museums?",
+"Do you prefer outdoor activities such as hiking or surfing?",
+"Have you tried adventure activities like bungee jumping or skydiving?",
+"Do you enjoy shopping for local souvenirs and crafts?",
+"Do you like to attend cultural events such as music festivals or art exhibitions?",
+"Do you like to meet new people and make friends while traveling?",
+"Are you interested in learning about the local language and customs?",
+"Do you prefer to relax and unwind at spas or beaches?",
+"Do you like to document your travels through photography or journaling?"],
+      "responses": ["I like to explore the local culture, try new foods, and meet new people. I also enjoy visiting historical landmarks and museums to learn about the history and traditions of the place.", "When I visit new places, I like to go on walking tours or hikes to see the natural beauty of the area. I also like to try new activities that are unique to the region, like surfing in Hawaii or skiing in the Alps.", "I love to take photographs and capture the essence of the place. I also like to read about the history and culture of the area before I go, so that I can have a deeper understanding of what I'm seeing and experiencing.", "I enjoy immersing myself in the local lifestyle and experiencing things like the daily markets, the public transportation, and the local music scene. It's a great way to get a sense of the place and its people.", "I like to plan my trips in advance, so that I can make the most of my time in the new place. This involves researching the must-see sights and activities, as well as the best places to eat and drink.", "I enjoy trying new things when I visit new places. This could be as simple as trying a new type of food, or as adventurous as skydiving or bungee jumping.", "I like to take a slow approach when I visit new places, and really soak up the atmosphere of the place. This could involve spending time in local parks, visiting coffee shops, or just people-watching.", "When I visit new places, I like to connect with the local people and learn about their way of life. This could involve taking a cooking class, volunteering, or just striking up a conversation with a stranger.", "I enjoy visiting local art galleries and museums when I visit new places. It's a great way to learn about the local culture and history, and to see some amazing works of art.", "I like to challenge myself physically when I visit new places. This could involve going on a long hike, trying a new sport, or just walking around the city to see the sights."]
+    }
+  ]
+}
